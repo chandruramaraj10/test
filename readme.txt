@@ -14,7 +14,12 @@ git push origin main
 
 
 git checkout -b sub main
-git add .
-git commit -m "second"
+#git add .
+#git commit -m "second"
 git push -u origin sub
-git 
+
+git log
+git status
+
+
+
